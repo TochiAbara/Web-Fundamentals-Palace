@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+body { 
+    background-color: whitesmoke;
+    max-width: 1400px;
+    margin: auto;
+}
+
+header {
+    text-align: center;
+    height: 80px;
+    padding: 40px;
+}
